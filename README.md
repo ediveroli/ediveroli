@@ -1,5 +1,5 @@
-licensed goober
-didnt pay the box guy
+- licensed goober
+- didnt pay the box guy
 
 <!---
 ediveroli/ediveroli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
